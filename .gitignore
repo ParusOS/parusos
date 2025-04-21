@@ -1,0 +1,6 @@
+*.code-workspace
+*.o
+*.iso
+isodir/
+bin/
+
